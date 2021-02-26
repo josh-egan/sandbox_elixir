@@ -99,4 +99,9 @@ defmodule BooleanTypesTest do
     assert !!{} == true
     assert !!nil == false
   end
+
+  test "true and false atoms are also booleans" do
+    assert :true == true
+    assert :false == false
+  end
 end
