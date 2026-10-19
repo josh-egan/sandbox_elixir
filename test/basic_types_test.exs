@@ -86,9 +86,11 @@ defmodule BooleanTypesTest do
 
   test "can use true and false" do
     assert true == true
-    refute true == false
-    refute false == true
     assert false == false
+    assert is_boolean(true)
+    assert is_boolean(false)
+    # `true == false` would trigger a type warning: the compiler knows the
+    # two literals are disjoint types, so the comparison is always false.
   end
 
   test "all types except nil are truthy" do

@@ -4,7 +4,13 @@ Repo for exploring [elixir](https://elixir-lang.org/).
 
 ## Setup
 
-Follow this tutorial to install `elixir` using `asdf`: https://thinkingelixir.com/install-elixir-using-asdf/
+Erlang and Elixir versions are pinned in `.tool-versions`. Install them with [mise](https://mise.jdx.dev/) or [asdf](https://asdf-vm.com/):
+
+```bash
+mise install   # or: asdf install
+mix deps.get
+mix test
+```
 
 ## Documentation
 
@@ -49,7 +55,7 @@ Add dependencies to the `mix.exs` file, then run `mix deps.get` on the command l
 Install mix_test_watch: https://github.com/lpil/mix-test.watch by adding this line to your deps in mix.exs:
 
 ```elixir
-{:mix_test_watch, "~> 1.0", only: :dev, runtime: false}
+{:mix_test_watch, "~> 1.4", only: :dev, runtime: false}
 ```
 
 Add `:iex` to the `extra_applications` in mix.exs

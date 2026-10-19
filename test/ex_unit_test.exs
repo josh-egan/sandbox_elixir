@@ -15,7 +15,7 @@ defmodule ExUnitTest do
   end
 
   test "can use refute" do
-    refute true == false
+    refute 1 == 2
   end
 
   test "can use assert_received" do
