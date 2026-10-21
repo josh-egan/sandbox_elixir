@@ -14,7 +14,7 @@ mix test
 
 ## Documentation
 
-- https://elixir-lang.org/getting-started/introduction.html
+- https://elixir.hexdocs.pm/introduction.html
 - https://elixirschool.com/en/
 
 ## REPL
