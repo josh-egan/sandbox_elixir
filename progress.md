@@ -8,4 +8,4 @@ Working through the [Elixir getting started guide](https://elixir.hexdocs.pm/int
 
 ## Up next
 
-- [ ] [Lists and tuples](https://elixir.hexdocs.pm/lists-and-tuples.html)
+- [ ] [Lists and tuples](https://elixir.hexdocs.pm/lists-and-tuples.html) — [lists_and_tuples_test.exs](test/lists_and_tuples_test.exs)
