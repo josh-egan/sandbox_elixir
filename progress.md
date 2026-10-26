@@ -7,7 +7,8 @@ Working through the [Elixir getting started guide](https://elixir.hexdocs.pm/int
 - [x] [Basic types](https://elixir.hexdocs.pm/basic-types.html) — [basic_types_test.exs](test/basic_types_test.exs)
 - [x] [Lists and tuples](https://elixir.hexdocs.pm/lists-and-tuples.html) — [lists_and_tuples_test.exs](test/lists_and_tuples_test.exs)
 - [x] [Pattern matching](https://elixir.hexdocs.pm/pattern-matching.html) — [pattern_matching_test.exs](test/pattern_matching_test.exs)
+- [x] [case, cond, and if](https://elixir.hexdocs.pm/case-cond-and-if.html) — [case_cond_and_if_test.exs](test/case_cond_and_if_test.exs)
 
 ## Up next
 
-- [ ] [case, cond, and if](https://elixir.hexdocs.pm/case-cond-and-if.html) — [case_cond_and_if_test.exs](test/case_cond_and_if_test.exs)
+- [ ] [Anonymous functions](https://elixir.hexdocs.pm/anonymous-functions.html) — [anonymous_functions_test.exs](test/anonymous_functions_test.exs)
