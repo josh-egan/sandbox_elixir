@@ -10,7 +10,8 @@ Working through the [Elixir getting started guide](https://elixir.hexdocs.pm/int
 - [x] [case, cond, and if](https://elixir.hexdocs.pm/case-cond-and-if.html) — [case_cond_and_if_test.exs](test/case_cond_and_if_test.exs)
 - [x] [Anonymous functions](https://elixir.hexdocs.pm/anonymous-functions.html) — [anonymous_functions_test.exs](test/anonymous_functions_test.exs)
 - [x] [Binaries, strings, and charlists](https://elixir.hexdocs.pm/binaries-strings-and-charlists.html) — [binaries_strings_and_charlists_test.exs](test/binaries_strings_and_charlists_test.exs)
+- [x] [Keywords and maps](https://elixir.hexdocs.pm/keywords-and-maps.html) — [keywords_and_maps_test.exs](test/keywords_and_maps_test.exs)
 
 ## Up next
 
-- [ ] [Keywords and maps](https://elixir.hexdocs.pm/keywords-and-maps.html) — [keywords_and_maps_test.exs](test/keywords_and_maps_test.exs)
+- [ ] [Modules and functions](https://elixir.hexdocs.pm/modules-and-functions.html) — [modules_and_functions_test.exs](test/modules_and_functions_test.exs)
